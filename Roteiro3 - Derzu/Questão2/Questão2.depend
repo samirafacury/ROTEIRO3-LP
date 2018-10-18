@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1539020882 source:c:\users\aluno.ci-hp\desktop\r3\r3q2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1539020749 source:c:\users\aluno.ci-hp\desktop\r3\r3q2\src\circulo.cpp
+	"Circulo.h"
+
+1539020724 c:\users\aluno.ci-hp\desktop\r3\r3q2\include\circulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539019705 c:\users\aluno.ci-hp\desktop\r3\r3q2\include\figurageometrica.h
+	<string>
+
+1539019672 source:c:\users\aluno.ci-hp\desktop\r3\r3q2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539020635 source:c:\users\aluno.ci-hp\desktop\r3\r3q2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539020635 c:\users\aluno.ci-hp\desktop\r3\r3q2\include\retangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539020635 source:c:\users\aluno.ci-hp\desktop\r3\r3q2\src\triangulo.cpp
+	"Triangulo.h"
+
+1539021515 c:\users\aluno.ci-hp\desktop\r3\r3q2\include\triangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539020884 source:c:\users\denis\downloads\r3\r3q2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1539019706 c:\users\denis\downloads\r3\r3q2\include\figurageometrica.h
+	<string>
+
+1539021516 c:\users\denis\downloads\r3\r3q2\include\triangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539020636 c:\users\denis\downloads\r3\r3q2\include\retangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539020726 c:\users\denis\downloads\r3\r3q2\include\circulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539020750 source:c:\users\denis\downloads\r3\r3q2\src\circulo.cpp
+	"Circulo.h"
+
+1539019674 source:c:\users\denis\downloads\r3\r3q2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539020636 source:c:\users\denis\downloads\r3\r3q2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539020636 source:c:\users\denis\downloads\r3\r3q2\src\triangulo.cpp
+	"Triangulo.h"
+
+1539832264 source:c:\users\samira\documents\r3\questão2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1539831485 c:\users\samira\documents\r3\questão2\include\figurageometrica.h
+	<string>
+
+1539831754 c:\users\samira\documents\r3\questão2\include\triangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539831086 c:\users\samira\documents\r3\questão2\include\retangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539831679 c:\users\samira\documents\r3\questão2\include\circulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539832169 source:c:\users\samira\documents\r3\questão2\src\circulo.cpp
+	"Circulo.h"
+
+1539831952 source:c:\users\samira\documents\r3\questão2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539832074 source:c:\users\samira\documents\r3\questão2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539832122 source:c:\users\samira\documents\r3\questão2\src\triangulo.cpp
+	"Triangulo.h"
+
+1539832264 source:c:\users\samira\documents\roteiro3 - derzu\questão2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1539831485 c:\users\samira\documents\roteiro3 - derzu\questão2\include\figurageometrica.h
+	<string>
+
+1539831754 c:\users\samira\documents\roteiro3 - derzu\questão2\include\triangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539831086 c:\users\samira\documents\roteiro3 - derzu\questão2\include\retangulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539831679 c:\users\samira\documents\roteiro3 - derzu\questão2\include\circulo.h
+	"FiguraGeometrica.h"
+	<string>
+
+1539832169 source:c:\users\samira\documents\roteiro3 - derzu\questão2\src\circulo.cpp
+	"Circulo.h"
+
+1539831952 source:c:\users\samira\documents\roteiro3 - derzu\questão2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539832074 source:c:\users\samira\documents\roteiro3 - derzu\questão2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539832122 source:c:\users\samira\documents\roteiro3 - derzu\questão2\src\triangulo.cpp
+	"Triangulo.h"
+

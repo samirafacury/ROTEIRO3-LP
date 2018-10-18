@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1539829889 source:c:\users\samira\documents\roteiro3 - derzu\questão1\main.cpp
+	<iostream>
+	"Animal.h"
+	"Gato.h"
+
+1539829781 c:\users\samira\documents\roteiro3 - derzu\questão1\include\animal.h
+	<string>
+
+1539829781 c:\users\samira\documents\roteiro3 - derzu\questão1\include\gato.h
+	"Animal.h"
+
+1539829781 source:c:\users\samira\documents\roteiro3 - derzu\questão1\src\animal.cpp
+	"Animal.h"
+
+1539829846 source:c:\users\samira\documents\roteiro3 - derzu\questão1\src\gato.cpp
+	"Gato.h"
+
