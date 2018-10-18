@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1539836195 source:c:\users\samira\documents\r3\r3q4\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1539836195 c:\users\samira\documents\r3\r3q4\include\conta.h
+	<string>
+	<iostream>
+
+1539836063 c:\users\samira\documents\r3\r3q4\include\contacorrente.h
+	"Conta.h"
+
+1539546840 c:\users\samira\documents\r3\r3q4\include\contaespecial.h
+	"ContaCorrente.h"
+
+1539546742 c:\users\samira\documents\r3\r3q4\include\poupanca.h
+	"Conta.h"
+
+1539836399 source:c:\users\samira\documents\r3\r3q4\src\conta.cpp
+	"Conta.h"
+
+1539836227 source:c:\users\samira\documents\r3\r3q4\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1539836063 source:c:\users\samira\documents\r3\r3q4\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539836226 source:c:\users\samira\documents\r3\r3q4\src\poupanca.cpp
+	"Poupanca.h"
+
