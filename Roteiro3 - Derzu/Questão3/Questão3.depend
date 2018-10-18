@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\aluno.ci-hp\desktop\r3\q3\main.cpp
+	<iostream>
+
+1539024405 source:c:\users\aluno.ci-hp\desktop\r3\q3\src\conta.cpp
+	"Conta.h"
+
+1539024398 c:\users\aluno.ci-hp\desktop\r3\q3\include\conta.h
+	"Iconta.h"
+	<string>
+
+1539023392 c:\users\aluno.ci-hp\desktop\r3\q3\include\iconta.h
+
+1539023392 source:c:\users\aluno.ci-hp\desktop\r3\q3\src\iconta.cpp
+	"Iconta.h"
+
+1539024398 source:c:\users\aluno.ci-hp\desktop\r3\q3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539024330 c:\users\aluno.ci-hp\desktop\r3\q3\include\contaespecial.h
+	"Conta.h"
+
+1539024406 source:c:\users\denis\downloads\r3\q3\src\conta.cpp
+	"Conta.h"
+
+1539024400 c:\users\denis\downloads\r3\q3\include\conta.h
+	"Iconta.h"
+	<string>
+
+1539023394 c:\users\denis\downloads\r3\q3\include\iconta.h
+
+1539023394 source:c:\users\denis\downloads\r3\q3\src\iconta.cpp
+	"Iconta.h"
+
+1539542799 source:c:\users\denis\downloads\r3\q3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539542812 c:\users\denis\downloads\r3\q3\include\contaespecial.h
+	"Conta.h"
+
+1539835164 source:c:\users\samira\documents\r3\r3q3\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1539833855 c:\users\samira\documents\r3\r3q3\include\iconta.h
+
+1539833855 c:\users\samira\documents\r3\r3q3\include\conta.h
+	"Iconta.h"
+	<string>
+
+1539833977 c:\users\samira\documents\r3\r3q3\include\contaespecial.h
+	"Conta.h"
+
+1539833977 source:c:\users\samira\documents\r3\r3q3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539023394 source:c:\users\samira\documents\r3\r3q3\src\iconta.cpp
+	"Iconta.h"
+
+1539833987 source:c:\users\samira\documents\r3\r3q3\src\conta.cpp
+	"Conta.h"
+
+1539835347 source:c:\users\samira\documents\roteiro3 - derzu\questão3\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1539833855 c:\users\samira\documents\roteiro3 - derzu\questão3\include\iconta.h
+
+1539833855 c:\users\samira\documents\roteiro3 - derzu\questão3\include\conta.h
+	"Iconta.h"
+	<string>
+
+1539833977 c:\users\samira\documents\roteiro3 - derzu\questão3\include\contaespecial.h
+	"Conta.h"
+
+1539833987 source:c:\users\samira\documents\roteiro3 - derzu\questão3\src\conta.cpp
+	"Conta.h"
+
+1539833977 source:c:\users\samira\documents\roteiro3 - derzu\questão3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539023394 source:c:\users\samira\documents\roteiro3 - derzu\questão3\src\iconta.cpp
+	"Iconta.h"
+
